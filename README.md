@@ -41,7 +41,7 @@ de estos steps y su descripción. Para crear esta vista definí lo siguiente:
  para actualizar el ViewPager de contenido y que también moverá el HorizontalScrollView para mostrar en primer 
  lugar el Step actual.
 
-# 2. Crea un shake action en android y pon el código. Proyecto subido a este repo y codígo de referencia aqui: 
+# 2. Crea un shake action en android y pon el código. Proyecto subido a este repo y codígo de referencia aqui: https://github.com/juanchosandox90/BelatrixTest/blob/master/app/src/main/java/app/sandoval/com/belatrixtest/Fragment/FragmentShaker.java
 
 # 3. Explica cómo organizas en base a tu experiencia un proyecto en Android utilizando MVP e implementando Clean Architecture, menciona los paquetes que utilizarías y la distribución de módulos.
 
@@ -66,7 +66,7 @@ el inicio y fin, pero no debe realizarse logica de negocio, ni llamadas a ejecuc
    asi como tambien se pueden disparar estas operaciones en segundo plano. Gracias a esta capa se hace una diferenciacion y se añade una capa mas de abstraccion 
    que permite desligar el modelo de datos de las operaciones. Esto permitira al Interactor realizar sus tareas sin responsabilizarse de la capa de datos.
 
-# 4. Diseña un custom view de una brújula utilizando canvas y pon el código que utilizarías en esta sección. Proyecto subido a este repo y codígo de referencia aqui: 
+# 4. Diseña un custom view de una brújula utilizando canvas y pon el código que utilizarías en esta sección. Proyecto subido a este repo y codígo de referencia aqui: https://github.com/juanchosandox90/BelatrixTest/blob/master/app/src/main/java/app/sandoval/com/belatrixtest/View/CompassView.java
 
 
 
