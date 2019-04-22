@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BelatrixTest</string>
+    <string name="shake_it">shake it</string>
+    <string name="shaker_sensitivity">shaker sensitivity</string>
+    <string name="shake_action">SHAKE ACTION</string>
+    <string name="canvas_compass">COMPASS</string>
 </resources>
